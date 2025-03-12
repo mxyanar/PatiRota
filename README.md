@@ -12,7 +12,7 @@ Temel amacımız sahipsiz, sahiplendirilmek istenen, kaybolan hayvanların sahip
 
 **Proje Ekibi:** Mehmet Yanar
 
-1. Gereksinim Analizi
+1. [Gereksinim Analizi](https://github.com/mxyanar/PatiRota/blob/main/Gereksinim-Analizi.md)
 2. Durum Diyagramı
 3. Durum Senaryoları
 4. Front-End
