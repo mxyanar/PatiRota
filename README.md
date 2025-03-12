@@ -12,8 +12,8 @@ Temel amacımız sahipsiz, sahiplendirilmek istenen, kaybolan hayvanların sahip
 
 **Proje Ekibi:** Mehmet Yanar
 
-1. Gereksinim-Analizi
-2. Durum-Diyagramı
+1. Gereksinim Analizi
+2. Durum Diyagramı
 3. Durum Senaryoları
 4. Front-End
 5. Back-End
