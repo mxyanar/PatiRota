@@ -5,7 +5,7 @@
 4. **Gönüllü Sahiplendirme:** Kullanıcıların hayvan sahiplendirmek için oluşturdukları ilan bölümüdür.
 5. **Kayıp Formu:** Kullanıcıların kaybolan hayvanları için oluşturdukları ilan bölümüdür.
 6. **Bulunan Formu:** Kullanıcıların sahipsiz hayvanlar için oluşturdukları ilan bölümüdür.
-7. **Admin Onayı:** Kullanıcıların oluşturmuş oldukları ilanların doğruluk ve güvenliğini sağlamak için kontrol penceresidir.
+7. **Admin Onayı:** Kullanıcıların oluşturmuş oldukları ilanların doğruluk ve güvenliğini sağlamak için admin tarafınfan kontrol edilen penceredir.
 8. **Gönüllü Sahiplenme İlanları:** Gönüllü Sahiplenme Formunda doldurulan tüm ilanların gösterimi.
 9. **Kayıp İlanları:** Kayıp Formunda doldurulan tüm ilanların gösterimi.
 10. **Bulunan İlanları:** Bulunan Formunda doldurulan tüm ilanların gösterimi.
