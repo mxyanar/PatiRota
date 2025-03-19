@@ -11,7 +11,7 @@
 10. Bulunan İlanları
 11. Haberler
 
-# Gereksinimlerin Açıklamaları
+# Gereksinimlerin Dağılımları
 1. Giriş Yapma: Kullanıcıların hizmetlere erişimi ve etkileşimin doğru ve güvenilirliğini sağlamak için oluşturdukları kimlik doğrulama işlemidir. 
 2. Kayıt Oluşturma: Kullanıcıların erişmek istediği hizmet yönünde evcil hayvanın resmi, cinsi, türü, rengi, bulunduğu yer, bulunduğu şehir, bulunduğu tarih, ilan sahibinin iletişim bilgileri ve alt kategorisi ne ise ona göre kayıt oluşturmalarını yapacakları kısımdır.
 3. Kavuşanlar: Kullanıcıların oluşturmuş oldukları ilan üzerine hayvanına kavuşmuş ilanların bulunduğu bölümdür.
